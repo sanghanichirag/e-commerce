@@ -28,7 +28,7 @@ const otpGenerator = require('otp-generator');
 
 const FCM = require('fcm-node');
 
-const serverKey = process.env.FireBase_SERVER_KEY;
+// const serverKey = process.env.FireBase_SERVER_KEY;
 
 const Secrate_Key = process.env.User_Secrate_Key;
 
