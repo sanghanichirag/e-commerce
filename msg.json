@@ -1,0 +1,70 @@
+{
+    "Validation_error": {
+        "Enter_Username": "Enter username",
+        "Enter_Email": "Enter email",
+        "Email_Or_Phone_Exists": "Email or phone number exists",
+        "Enter_Valid_Email": "Enter valid email",
+        "Enter_Phone": "Enter phone number",
+        "Enter_Valid_Phone_Number": "Enter valid phone number",
+        "Enter_Password": "Enter password",
+        "Enter_Valid_Password": "Enter valid password",
+        "Enter_Product_Name": "Enter product name",
+        "Enter_Product_Price": "Enter product price",
+        "Enter_Product_Quantity": "Enter product quantity",
+        "Enter_Product_Description": "Enter product description"
+    },
+    "Admin_Validation_error": {
+        "Password_And_C_Password_not_Match": "Password and confirm password not match",
+        "Enter_Email": "Enter email",
+        "Enter_Valid_Email": "Enter valid email",
+        "Enter_Password": "Enter password",
+        "Enter_Valid_Password": "Enter valid password",
+        "Enter_Otp": "Enter otp",
+        "Enter_Valid_OTP": "Enter valid otp",
+        "Enter_Old_Password": "Enter old password",
+        "Enter_New_Password": "Enter new password",
+        "Enter_New_confirm_Password": "Enter new confirm password",
+        "New_Password_And_New_C_Password_not_Match": "New password and new confirm password not match",
+        "No_Pending_Amount": "No pending amount"
+    },
+    "Admin_success": {
+        "Login_Successfully": "Login successfully",
+        "Otp_Send_Successfully": "Otp send successfully",
+        "Otp_Verification_Successfully": "Otp verification successfully",
+        "PassWord_Forget_Successfully": "password forget successfully",
+        "PassWord_Change_Successfully": "password changed successfully",
+        "Profile_Update_Successfully": "Profile updated successfully",
+        "Log_Out_Successfully": "Log Out Successfully"
+    },
+    "User_success": {
+        "User_Register_Successfully": "User register successfully",
+        "Login_Successfully": "Login successfully",
+        "Profile_Update_Successfully": "Profile updated successfully",
+        "Log_Out_Successfully": "Logout successfully"
+    },
+    "Product_success": {
+        "Product_Added_Successfully": "Product added successfully",
+        "Product_Updated_Successfully": "Product updated successfully",
+        "Product_Deleted_Successfully": "Product deleted successfully",
+        "Order_Status_Updated_Successfully": "Order status updated successfully"
+    },
+    "CheckOut_success": {
+        "CheckOut_Added_Successfully": "Check out successfully",
+        "Data_Fetch_Successfully": "Data Fetch successfully",
+        "CheckOut_Updated_Successfully": "Order Updated Successfully"
+    },
+    "Add_To_Cart_Validation_error": {
+        "Add_To_Cart_Already_Exists": "Product already exists"
+    },
+    "Add_To_Cart_success": {
+        "Add_To_Cart_Added_Successfully": "Product added successfully",
+        "Add_To_Cart_Deleted_Successfully": "Product removed successfully",
+        "Add_To_Cart_Updated_Successfully": "Cart product updated successfully"
+    },
+    "Invalid_Token": {
+        "Invalid_Token": "Invalid token"
+    },
+    "System_error": {
+        "Something_Went_Wrong_Try_Again": "Something went wrong! Please try again"
+    }
+}
