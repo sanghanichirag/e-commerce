@@ -15,4 +15,6 @@ Postman Collection link: https://api.postman.com/collections/28677546-3808fc75-3
 
 #### Import above postman collection link to the your postman 
 
+#### Import Environment file for run postman apis
+
 #### Start Exploring the apis
